@@ -1,0 +1,7 @@
+{
+  "name": "NeuroScan++",
+  "description": "A neuro-adaptive memoryscape platform for dementia care featuring cognitive tracking, agitation prediction, and AI-powered memory narrative generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
